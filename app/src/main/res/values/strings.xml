@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">recyclerVIewRoom</string>
+    <string name="add_fab_description">FAB</string>
+</resources>
